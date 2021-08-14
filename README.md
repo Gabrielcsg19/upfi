@@ -51,7 +51,7 @@ yarn test
 - [Jest](https://jestjs.io/pt-BR/) - Um dos frameworks mais famosos quando se trata de testes de código Javascript.
 - [React Query](https://react-query.tanstack.com/) - Biblioteca para lidar com gerenciamento de cache e data fetching no React.
 - [React Hook Form](https://react-hook-form.com/) - Biblioteca para manipulação de formulário no React.
-- [Chakra UI](https://chakra-ui.com/) - Biblioteca para criação de interfaces declarativas com React.
+- [Chakra UI](https://chakra-ui.com/) - Biblioteca para criação de interfaces declarativas.
 
 ## 🎉 Agradecimentos
 
