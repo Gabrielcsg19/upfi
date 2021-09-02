@@ -1,6 +1,6 @@
 <h1 align="center">upfi</h1><br>
 
-![upfi](https://user-images.githubusercontent.com/54643425/129428129-0f8b9fea-1477-4678-8244-aa6068666c81.gif)
+![upfi](https://raw.githubusercontent.com/Gabrielcsg19/upfi/master/assets/cover-img.png)
 
 ---
 Aplicação de adição e listagem de imagens hospedadas no __ImgBB__ e dados no __FaunaDB__.
